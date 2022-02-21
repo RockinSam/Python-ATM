@@ -8,5 +8,5 @@ Screenshots:
 
 ![Screenshot 1](https://github.com/RockinSam/Python-ATM/blob/main/pyt-atm.gif)
 
-![Screenshot 2](https://github.com/RockinSam/Python-ATM/blob/main/pyt-atm.gif)
+![Screenshot 2](https://github.com/RockinSam/Python-ATM/blob/main/pyt-atm-block.gif)
 
